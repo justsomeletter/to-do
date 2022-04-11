@@ -100,6 +100,7 @@ form button:hover {
   opacity: 0;
 }
 
+/* To remove platform specific styling to select tag so that the drop down menu looks same across all operating systems*/
 select {
   -webkit-appearance: none;
   -moz-appearance: none;
